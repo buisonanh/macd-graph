@@ -64,7 +64,7 @@ class main():
     ax2.grid(color='gray', alpha=0.3)
 
     # Add title and legend
-    plt.title('Stock Price and MACD', color='white')
+    plt.title('FPT Stock Price and MACD', color='white')
 
     ax1.legend()
     ax2.legend()       
